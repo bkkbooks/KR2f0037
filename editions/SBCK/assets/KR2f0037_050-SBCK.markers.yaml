@@ -152,6 +152,7 @@ markers:
   - {type: line-break, offset: 398, content: '', id: KR2f0037_SBCK_050-2a08}
   - {type: indent, offset: 398, content: 　, id: KR2f0037_SBCK_050-bkkind28}
   - {type: punctuation, offset: 407, content: (, id: KR2f0037_SBCK_050-bkkpn1}
+  - {type: voice, offset: 407, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 408, content: /, id: KR2f0037_SBCK_050-bkkpn2}
   - {type: punctuation, offset: 409, content: ), id: KR2f0037_SBCK_050-bkkpn3}
   - {type: 'kr:newline', offset: 409, content: '
@@ -232,6 +233,7 @@ markers:
   - {type: line-break, offset: 618, content: '', id: KR2f0037_SBCK_050-3a02}
   - {type: indent, offset: 618, content: 　, id: KR2f0037_SBCK_050-bkkind41}
   - {type: punctuation, offset: 627, content: (, id: KR2f0037_SBCK_050-bkkpn4}
+  - {type: voice, offset: 627, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 628, content: /, id: KR2f0037_SBCK_050-bkkpn5}
   - {type: punctuation, offset: 629, content: ), id: KR2f0037_SBCK_050-bkkpn6}
   - {type: 'kr:newline', offset: 629, content: '
@@ -259,6 +261,7 @@ markers:
   - {type: line-break, offset: 694, content: '', id: KR2f0037_SBCK_050-3a07}
   - {type: indent, offset: 694, content: 　, id: KR2f0037_SBCK_050-bkkind45}
   - {type: punctuation, offset: 703, content: (, id: KR2f0037_SBCK_050-bkkpn7}
+  - {type: voice, offset: 703, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 705, content: /, id: KR2f0037_SBCK_050-bkkpn8}
   - {type: punctuation, offset: 707, content: ), id: KR2f0037_SBCK_050-bkkpn9}
   - {type: 'kr:newline', offset: 707, content: '
@@ -300,10 +303,11 @@ markers:
   - {type: line-break, offset: 804, content: '', id: KR2f0037_SBCK_050-3b04}
   - {type: indent, offset: 804, content: 　, id: KR2f0037_SBCK_050-bkkind51}
   - {type: punctuation, offset: 810, content: (, id: KR2f0037_SBCK_050-bkkpn10}
+  - {type: voice, offset: 810, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 811, content: /, id: KR2f0037_SBCK_050-bkkpn11}
   - {type: punctuation, offset: 812, content: ), id: KR2f0037_SBCK_050-bkkpn12}
   - {type: 'kr:newline', offset: 812, content: '
 
       ', id: KR2f0037_SBCK_050-bkkkrnewl60}
   back: []
-hash: sha256:544dec3fdf26da907c3012e2589789ffb3c33e939674bdac4df6de40875ca66d
+hash: sha256:2d9dff4c3698b843a070d3ad62fa37be7ccd42014f916568005ecc7acdef3a35
